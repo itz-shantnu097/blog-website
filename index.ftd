@@ -7,7 +7,7 @@
 -- card.feature-card: How AI is Transforming the Finance Industry
 author: Ekta Idnany
 date: May 2, 2025
-blog-link: itz-shantnu097.github.io/blog-website/blog-1/
+blog-link: /blog-website/blog-1/
 comments: 1
 cover: $assets.files.assets.Picture1.png
 
@@ -30,7 +30,7 @@ AI is revolutionizing how financial institutions operate, from enhancing custome
 			-- card.card: How AI is Transforming the Finance Industry
 			author: Ekta Idnany
 			date: May 2, 2025
-			blog-link: itz-shantnu097.github.io/blog-website/blog-1/
+			blog-link: /blog-website/blog-1/
 			comments: 3
 			cover: $assets.files.assets.Picture1.png
 			
@@ -39,7 +39,7 @@ AI is revolutionizing how financial institutions operate, from enhancing custome
 			-- card.card: AI and the Stock Market: How Machine Learning is Changing Trading
 			author: John Doe
 			date: Apr 15, 2025
-			blog-link: itz-shantnu097.github.io/blog-website/blog-2/
+			blog-link: /blog-website/blog-2/
 			comments: 2
 			cover: $assets.files.assets.Picture2.png
 			
@@ -48,7 +48,7 @@ AI is revolutionizing how financial institutions operate, from enhancing custome
 			-- card.card: The Role of AI in Predicting Stock Market Volatility
 			author: Jane Smith
 			date: Apr 20, 2025
-			blog-link: itz-shantnu097.github.io/blog-website/blog-3/
+			blog-link: /blog-website/blog-3/
 			comments: 2
 			cover: $assets.files.assets.Picture3.png
 			
@@ -65,7 +65,7 @@ AI is revolutionizing how financial institutions operate, from enhancing custome
 			-- card.card: How AI is Transforming the Finance Industry
 			  author: Ekta Idnany
 			  date: May 2, 2025
-			  blog-link: itz-shantnu097.github.io/blog-website/blog-1/
+			  blog-link: /blog-website/blog-1/
 			  comments: 3
 			  cover: $assets.files.assets.Picture1.png
 			
@@ -74,7 +74,7 @@ AI is revolutionizing how financial institutions operate, from enhancing custome
 			-- card.card: AI and the Stock Market: How Machine Learning is Changing Trading
 			author: John Doe
 			date: Apr 15, 2025
-			blog-link: itz-shantnu097.github.io/blog-website/blog-2/
+			blog-link: /blog-website/blog-2/
 			comments: 2
 			cover: $assets.files.assets.Picture2.png
 			
@@ -83,7 +83,7 @@ AI is revolutionizing how financial institutions operate, from enhancing custome
 			-- card.card: The Role of AI in Predicting Stock Market Volatility
 			author: Jane Smith
 			date: Apr 20, 2025
-			blog-link: itz-shantnu097.github.io/blog-website/blog-3/
+			blog-link: /blog-website/blog-3/
 			comments: 2
 			cover: $assets.files.assets.Picture3.png
 			
