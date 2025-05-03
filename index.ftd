@@ -1,40 +1,98 @@
--- ds.page: Welcome to doc-site
+-- import: itz-shantnu097.github.io/blog-website/card
 
+-- ds.site-page: Blank Template
 
-⚡️ `doc-site` will help you create a beautiful documentation site in no time.
+-- ds.heading-hero: Featured Blog
 
-It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
+-- card.feature-card: How AI is Transforming the Finance Industry
+author: Ekta Idnany
+date: May 2, 2025
+blog-link: /blog-1/
+comments: 1
+cover: $assets.files.assets.Picture1.png
 
-[Click here](https://fastn-community.github.io/doc-site/) to read doc-site
-documentation.
+AI is revolutionizing how financial institutions operate, from enhancing customer service to streamlining operations. But how exactly is AI reshaping the financial landscape?
 
--- ds.h3: 🚀 Fast Track 
+-- ds.column:
 
-Create your first fastn [web-site](https://fastn.com/expander/hello-world/-/build/) 
-project in just 5 minutes!
+	-- ftd.row:
+	margin-top.percent: 10
+	margin-bottom.percent: 5
+	
+		-- ds.heading-medium: All Blog Posts
+		
+	-- end: ftd.row
 
--- ds.h3: 🌟 Whats next?
+	-- ftd.desktop:
+	
+		-- ds.row:
+		
+			-- card.card: How AI is Transforming the Finance Industry
+			author: Ekta Idnany
+			date: May 2, 2025
+			blog-link: /blog-1/
+			comments: 3
+			cover: $assets.files.assets.Picture1.png
+			
+			AI is revolutionizing how financial institutions operate, from enhancing customer service to streamlining operations. But how exactly is AI reshaping the financial landscape?
+			
+			-- card.card: AI and the Stock Market: How Machine Learning is Changing Trading
+			author: John Doe
+			date: Apr 15, 2025
+			blog-link: /blog-2/
+			comments: 2
+			cover: $assets.files.assets.Picture2.png
+			
+			Machine learning (a subset of AI) is one of the most promising technologies driving change in the stock market. Investors and traders are increasingly turning to AI to predict stock price movements, optimize portfolios, and reduce risks.
+			
+			-- card.card: The Role of AI in Predicting Stock Market Volatility
+			author: Jane Smith
+			date: Apr 20, 2025
+			blog-link: /blog-3/
+			comments: 2
+			cover: $assets.files.assets.Picture3.png
+			
+			AI is helping in forecasting market volatility by analyzing historical data and predicting future stock price fluctuations. It also helps in real-time data analysis and risk management.
+			
+		-- end: ds.row
 
-Create your first page. 
-[Click here to know more](https://fastn-community.github.io/doc-site/components/page/).
+	-- end: ftd.desktop
 
--- ds.h3: 👀 Want to learn more?
+	-- ftd.mobile:
+	
+		-- ds.column:
+		
+			-- card.card: How AI is Transforming the Finance Industry
+			  author: Ekta Idnany
+			  date: May 2, 2025
+			  blog-link: /blog-1/
+			  comments: 3
+			  cover: $assets.files.assets.Picture1.png
+			
+			  AI is revolutionizing how financial institutions operate, from enhancing customer service to streamlining operations. But how exactly is AI reshaping the financial landscape?
+			
+			-- card.card: AI and the Stock Market: How Machine Learning is Changing Trading
+			author: John Doe
+			date: Apr 15, 2025
+			blog-link: /blog-2/
+			comments: 2
+			cover: $assets.files.assets.Picture2.png
+			
+			Machine learning (a subset of AI) is one of the most promising technologies driving change in the stock market. Investors and traders are increasingly turning to AI to predict stock price movements, optimize portfolios, and reduce risks.
+			
+			-- card.card: The Role of AI in Predicting Stock Market Volatility
+			author: Jane Smith
+			date: Apr 20, 2025
+			blog-link: /blog-3/
+			comments: 2
+			cover: $assets.files.assets.Picture3.png
+			
+			AI is helping in forecasting market volatility by analyzing historical data and predicting future stock price fluctuations. It also helps in real-time data analysis and risk management.
+			
+		-- end: ds.column
 
-Feel free to check [our expander course](https://fastn.com/expander/) or jump
-into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+	-- end: ftd.mobile
 
+-- end: ds.column
 
--- ds.h3: 🎯 Used by?
-
-Our all documentation sites uses this `doc-site` theme.
-
-- [fastn.com](https://fastn.com/home/)
-- [FifthTry.com](https://www.fifthtry.com/)
-
--- ds.h2: Learn fastn and become a pro?
-
-You are one click away, just check [our documentation](https://fastn.com/) and 
-dont forget to jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
-
--- end: ds.page
+-- end: ds.site-page

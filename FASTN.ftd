@@ -3,17 +3,12 @@
 -- fastn.package: itz-shantnu097.github.io/blog-website
 favicon: /-/itz-shantnu097.github.io/blog-website/favicon.ico
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
--- fastn.dependency: fastn-community.github.io/dark-flame-cs
+-- fastn.dependency: design-system.fifthtry.site
+provided-via: itz-shantnu097.github.io/blog-website/ds
 
--- fastn.auto-import: itz-shantnu097.github.io/blog-website/FASTN/ds
+-- fastn.dependency: dark-flame-cs.fifthtry.site
+-- fastn.dependency: roboto-typography.fifthtry.site
+-- fastn.dependency: sarvom.github.io/poppins
+
 -- fastn.auto-import: itz-shantnu097.github.io/blog-website/assets
--- fastn.auto-import: doc-site
-
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
+-- fastn.auto-import: design-system.fifthtry.site as ds
