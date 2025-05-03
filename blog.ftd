@@ -1,0 +1,194 @@
+-- component page:
+caption heading:
+body content:
+optional string subheading-1:
+optional string subcontent-1:
+optional string subheading-2:
+optional string subcontent-2:
+optional string code:
+optional string lang:
+string author:
+string date:
+ftd.image-src cover:
+
+-- ftd.column:
+
+	-- ftd.desktop:
+	
+		-- ftd.container:
+		width: hug-content
+		
+			-- ds.heading-hero: $page.heading
+			
+			-- ftd.row:
+			spacing: space-between
+			padding-top.percent: 2
+			
+				-- ds.copy-regular: $page.author
+				
+				-- ds.copy-regular: $page.date
+				
+			-- end: ftd.row
+
+			-- ftd.row:
+			padding-top.percent: 2
+			
+				-- ds.image:
+				src: $page.cover
+				width.fixed.px: 1168
+				height.fixed.px: 350
+				
+			-- end: ftd.row
+
+			-- ftd.row:
+			padding-top.percent: 2
+			
+				-- ds.copy-regular: $page.content
+				
+			-- end: ftd.row
+
+			-- ftd.row:
+			padding-top.percent: 2
+			
+				-- ds.code:
+				lang: $page.lang
+				
+				$page.code
+				
+			-- end: ftd.row
+
+			-- ftd.column:
+			padding-top.percent: 2
+			
+				-- ftd.row:
+				border-bottom-width.px: 1
+				padding-bottom.percent: 1
+				
+					-- ds.heading-hero: $page.subheading-1
+					
+				-- end: ftd.row
+
+				-- ftd.row:
+				padding-top.percent: 1
+				
+					-- ds.copy-regular: $page.subcontent-1
+					
+				-- end: ftd.row
+
+			-- end: ftd.column
+
+			-- ftd.column:
+			padding-top.percent: 2
+			
+				-- ftd.row:
+				border-bottom-width.px: 1
+				padding-bottom.percent: 1
+				
+					-- ds.heading-hero: $page.subheading-2
+					
+				-- end: ftd.row
+
+				-- ftd.row:
+				padding-top.percent: 1
+				
+					-- ds.copy-regular: $page.subcontent-2
+					
+				-- end: ftd.row
+
+			-- end: ftd.column
+
+		-- end: ftd.container
+
+	-- end: ftd.desktop
+
+	-- ftd.mobile:
+	
+		-- ftd.container:
+		width: hug-content
+		
+			-- ds.heading-hero: $page.heading
+			
+			-- ftd.row:
+			spacing: space-between
+			padding-top.percent: 2
+			
+				-- ds.copy-regular: $page.author
+				
+				-- ds.copy-regular: $page.date
+				
+			-- end: ftd.row
+
+			-- ftd.row:
+			padding-top.percent: 2
+			
+				-- ds.image:
+				src: $page.cover
+				width.fixed.px: 350
+				height.fixed.px: 350
+				
+			-- end: ftd.row
+
+			-- ftd.row:
+			padding-top.percent: 2
+			
+				-- ds.copy-regular: $page.content
+				
+			-- end: ftd.row
+
+			-- ftd.row:
+			padding-top.percent: 2
+			
+				-- ds.code:
+				lang: $page.lang
+				
+				$page.code
+				
+			-- end: ftd.row
+
+			-- ftd.column:
+			padding-top.percent: 2
+			
+				-- ftd.row:
+				border-bottom-width.px: 1
+				padding-bottom.percent: 1
+				
+					-- ds.heading-hero: $page.subheading-1
+					
+				-- end: ftd.row
+
+				-- ftd.row:
+				padding-top.percent: 1
+				
+					-- ds.copy-regular: $page.subcontent-1
+					
+				-- end: ftd.row
+
+			-- end: ftd.column
+
+			-- ftd.column:
+			padding-top.percent: 2
+			
+				-- ftd.row:
+				border-bottom-width.px: 1
+				padding-bottom.percent: 1
+				
+					-- ds.heading-hero: $page.subheading-2
+					
+				-- end: ftd.row
+
+				-- ftd.row:
+				padding-top.percent: 1
+				
+					-- ds.copy-regular: $page.subcontent-2
+					
+				-- end: ftd.row
+
+			-- end: ftd.column
+
+		-- end: ftd.container
+
+	-- end: ftd.mobile
+
+-- end: ftd.column
+
+-- end: page

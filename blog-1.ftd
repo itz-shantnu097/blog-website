@@ -1,0 +1,17 @@
+-- import: itz-shantnu097.github.io/blog-website/blog
+
+-- ds.site-page: Blank Template
+
+-- blog.page: How AI is Transforming the Finance Industry
+cover: $assets.files.assets.Picture1.png
+author: Ekta Idnany
+date: May 2, 2025
+content: AI is changing the way financial institutions operate. AI-powered chatbots improve customer service, AI algorithms detect fraudulent activities, and robo-advisors offer personalized financial strategies. Additionally, AI is helping automate routine tasks, improving efficiency and reducing costs in financial operations.
+subheading-1: AI-Powered Customer Service
+subcontent-1: Financial institutions are utilizing AI chatbots and virtual assistants to handle customer inquiries, providing faster and more efficient service. AI is available 24/7, allowing businesses to improve customer experience while reducing response times and operational costs.
+subheading-2: Fraud Detection and Prevention
+subcontent-2: AI algorithms analyze transaction data in real time to identify patterns and detect fraudulent activities that human analysts might overlook. AI continuously learns from new data, helping financial institutions stay one step ahead of fraudsters.
+code: \-- fastn.dependency: to-do.fifthtry.site
+lang: ftd
+
+-- end: ds.site-page

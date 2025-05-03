@@ -1,0 +1,241 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "9429B4268A7548A89E457506FEAFC091CEBCF183D07F767E63028DA1184F1A43",
+      "size": 513
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "2C372A7AA51EFF6E5BE56E3D2D56DD55D63FBDF58A4D2E279392A02B55DDB960",
+      "size": 1416
+    },
+    "_Users_LOQ_blog-website/dark-flame-cs.fifthtry.site": {
+      "name": "_Users_LOQ_blog-website/dark-flame-cs.fifthtry.site",
+      "checksum": "077560CD23D068A39B12E9C9BED16A134B46552A604625FA11E80F8759B6025F",
+      "size": 119305
+    },
+    "_Users_LOQ_blog-website/dark-flame-cs.fifthtry.site_colors": {
+      "name": "_Users_LOQ_blog-website/dark-flame-cs.fifthtry.site_colors",
+      "checksum": "57DBAAEB0CFDDD1A76A20D3A6FA4E55EECAB20E20D0E39E295A6B012544F797F",
+      "size": 64595
+    },
+    "_Users_LOQ_blog-website/dark-mode-switcher.fifthtry.site": {
+      "name": "_Users_LOQ_blog-website/dark-mode-switcher.fifthtry.site",
+      "checksum": "AFBFE9F1D33E11912ADFD763607B48B1C510BF69092B9C76A1676652F56E3AB2",
+      "size": 11107
+    },
+    "_Users_LOQ_blog-website/dark-mode-switcher.fifthtry.site_assets": {
+      "name": "_Users_LOQ_blog-website/dark-mode-switcher.fifthtry.site_assets",
+      "checksum": "A36EE258F3E8B72D8497C4276BB7EF4D08BAD6EE296F38761A4F87CA0F57998A",
+      "size": 328
+    },
+    "_Users_LOQ_blog-website/design-system.fifthtry.site": {
+      "name": "_Users_LOQ_blog-website/design-system.fifthtry.site",
+      "checksum": "30F4E881114DA28091F2C79D037C2491E7C1655D832EA39AD34A53FAC4ABF559",
+      "size": 27322
+    },
+    "_Users_LOQ_blog-website/design-system.fifthtry.site_assets": {
+      "name": "_Users_LOQ_blog-website/design-system.fifthtry.site_assets",
+      "checksum": "CB59E21301BAEA74082BA2E4A57AA75E3C1680E200C6C06892C731152ED4A455",
+      "size": 323
+    },
+    "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_borders": {
+      "name": "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_borders",
+      "checksum": "77D9FE31E54BA9D3E0FC04CE8E7E3B94CEC7A2D363C957C36C85AFE56D42DAE5",
+      "size": 102532
+    },
+    "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_column": {
+      "name": "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_column",
+      "checksum": "2F04C3A6FC600F71B446819A81204CB98D15E6706D09E80E21B67331913D1FE7",
+      "size": 91155
+    },
+    "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_page": {
+      "name": "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_page",
+      "checksum": "2258A70F8D7A30F75C889C7DBE823C3001A3ADFFF0474DFF6453A208E94755A5",
+      "size": 130887
+    },
+    "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_radius": {
+      "name": "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_radius",
+      "checksum": "74B19F758AECAEB97D9C2C9B85338865EC855696AFA9DC81FDC15B0D52D909E6",
+      "size": 25318
+    },
+    "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_row": {
+      "name": "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_row",
+      "checksum": "19F003350CCEE58DCC26C14A31201F5444028C3F64188DD2908461DED70594F4",
+      "size": 102616
+    },
+    "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_section-column": {
+      "name": "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_section-column",
+      "checksum": "05FF8E2731F831EB374D1D269B10651B759E4C3F582E76FBA3F373ED07DB5217",
+      "size": 60948
+    },
+    "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_section-row": {
+      "name": "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_section-row",
+      "checksum": "C4421C64E386EB9BD82902B69582E787BA0A530673F905E5C748F6E4643E633E",
+      "size": 70802
+    },
+    "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_spaces": {
+      "name": "_Users_LOQ_blog-website/design-system.fifthtry.site_foundation-elements_spaces",
+      "checksum": "AD9D18C495B58F1ED6C0888EED2742216BD651B7BFA12EC52F8D69D63B615802",
+      "size": 145363
+    },
+    "_Users_LOQ_blog-website/design-system.fifthtry.site_site_footer": {
+      "name": "_Users_LOQ_blog-website/design-system.fifthtry.site_site_footer",
+      "checksum": "5222C8A0C0181704D2B7209471F6831E86D2AC7C144FE5D1FACD8D9D9E378924",
+      "size": 2298
+    },
+    "_Users_LOQ_blog-website/design-system.fifthtry.site_site_header": {
+      "name": "_Users_LOQ_blog-website/design-system.fifthtry.site_site_header",
+      "checksum": "476D449AEC6A4923A62650270D975D643A147F4E1AC83CDB7F9A2701F72DB294",
+      "size": 3071
+    },
+    "_Users_LOQ_blog-website/design-system.fifthtry.site_site_page": {
+      "name": "_Users_LOQ_blog-website/design-system.fifthtry.site_site_page",
+      "checksum": "D3787FE6398D47C72BA2712EB3DD631C4E8EB003C5833E5B430766FB767648A7",
+      "size": 6983
+    },
+    "_Users_LOQ_blog-website/design-system.fifthtry.site_typography_index": {
+      "name": "_Users_LOQ_blog-website/design-system.fifthtry.site_typography_index",
+      "checksum": "0C087C7BF4554EB75A7FD40C8629B24D099FE98D298087A498A9BA3CF95DA395",
+      "size": 74013
+    },
+    "_Users_LOQ_blog-website/fastn-typography.fifthtry.site": {
+      "name": "_Users_LOQ_blog-website/fastn-typography.fifthtry.site",
+      "checksum": "8778A3E38F58A76ABF9D7DF04F54E48B50A994C15F28E9D77BAA2E9A4582392C",
+      "size": 115492
+    },
+    "_Users_LOQ_blog-website/itz-shantnu097.github.io_blog-website_": {
+      "name": "_Users_LOQ_blog-website/itz-shantnu097.github.io_blog-website_",
+      "checksum": "5856CC073977BC79354690C295F2D7DF65B6C999D281D8161084094C73C65E9C",
+      "size": 14239
+    },
+    "_Users_LOQ_blog-website/itz-shantnu097.github.io_blog-website_assets": {
+      "name": "_Users_LOQ_blog-website/itz-shantnu097.github.io_blog-website_assets",
+      "checksum": "DA05664711D43561DF128259B1101A757EA920A77F24408140B22D69BFD4FF1D",
+      "size": 333
+    },
+    "_Users_LOQ_blog-website/itz-shantnu097.github.io_blog-website_card": {
+      "name": "_Users_LOQ_blog-website/itz-shantnu097.github.io_blog-website_card",
+      "checksum": "2F971FD6D8492953CB40014AF837DE0DF3E10FBBFFAEDD1AAF5C0A1763352469",
+      "size": 61594
+    },
+    "_Users_LOQ_blog-website/itz-shantnu097.github.io_blog-website_ds": {
+      "name": "_Users_LOQ_blog-website/itz-shantnu097.github.io_blog-website_ds",
+      "checksum": "3E1E9BD8CEE4CC0001784C875633491585A9ACBDCB676AFAC60E943E49848473",
+      "size": 4920
+    },
+    "_Users_LOQ_blog-website/manrope-font.fifthtry.site_assets": {
+      "name": "_Users_LOQ_blog-website/manrope-font.fifthtry.site_assets",
+      "checksum": "23EEB33E52C7EAD44BA3BEC02FC77388BB4DD7EC66A7B20951E725E6B59FD6C3",
+      "size": 990
+    },
+    "_Users_LOQ_blog-website/sarvom.github.io_poppins_assets": {
+      "name": "_Users_LOQ_blog-website/sarvom.github.io_poppins_assets",
+      "checksum": "BB11C0543B55FD7DE3DEA38E1237CCD9BBD82738D76E5AA7207A25B26C8C214E",
+      "size": 986
+    },
+    "_config.yml": {
+      "name": "_config.yml",
+      "checksum": "A42D91290C93B5F17412C3B346737EA1C796E5D287306758AFE8B20470119D80",
+      "size": 21
+    },
+    "assets/Endacity.webp": {
+      "name": "assets/Endacity.webp",
+      "checksum": "7F23C909DF240CB38B319C634AFED1354A4D54A79FF55C19CEB685ACECA25CEB",
+      "size": 80528
+    },
+    "assets/Picture1.png": {
+      "name": "assets/Picture1.png",
+      "checksum": "3F89836AB5327728A420D142C508BDF4A742445CD7A9CF45F8EC909DD3B20F25",
+      "size": 836615
+    },
+    "assets/Picture2.png": {
+      "name": "assets/Picture2.png",
+      "checksum": "0E09B830BF061DA9FB7FD498EFE545999FB7159C5BFE659BE1C76802FB5F31AA",
+      "size": 717318
+    },
+    "assets/Picture3.png": {
+      "name": "assets/Picture3.png",
+      "checksum": "991810755802569A3491D6CE41F246AA31A5B12C068C89E96A31681CB2A47D06",
+      "size": 688900
+    },
+    "assets/heart-empty.svg": {
+      "name": "assets/heart-empty.svg",
+      "checksum": "CB793CBE987AE032FD29D772D00D84DD43A422AC325BE50498248118A760618A",
+      "size": 717
+    },
+    "assets/heart-full.svg": {
+      "name": "assets/heart-full.svg",
+      "checksum": "ACE8369E023629E2668033740C1A83E72C9F267419785139D14506D8A0D3D2F3",
+      "size": 717
+    },
+    "assets/ipsum-logo-dark.svg": {
+      "name": "assets/ipsum-logo-dark.svg",
+      "checksum": "8290B3397C465FE1BB40B7CA280C976DF7DA3DABFC655B429805ABF33964FB5B",
+      "size": 16202
+    },
+    "assets/ipsum-logo.svg": {
+      "name": "assets/ipsum-logo.svg",
+      "checksum": "A227CF22E798ACFB2D01B6352FC22A28047444F028AF05440C6CE6F9499C0EDF",
+      "size": 15494
+    },
+    "assets/logo-dark.svg": {
+      "name": "assets/logo-dark.svg",
+      "checksum": "E25830E3B0DC759A6D47231D7A40A7B250C400030742D7229257BB65809087B7",
+      "size": 8696
+    },
+    "assets/logo.svg": {
+      "name": "assets/logo.svg",
+      "checksum": "BFE4D171D0E421F919014CE20D81AF55E88F9141EC2A5228A98E0F14656F230C",
+      "size": 8706
+    },
+    "blog-1.ftd": {
+      "name": "blog-1.ftd",
+      "checksum": "8104D2115B32FDFB9E31B74A71F6D877A5C45F9E15CD8FB3986142DC99D40A4C",
+      "size": 1269
+    },
+    "blog-2.ftd": {
+      "name": "blog-2.ftd",
+      "checksum": "DE525DB4C26BEC9C1AD85751492E830B5D9BBA423656BBE04D6F5A764397E702",
+      "size": 1207
+    },
+    "blog-3.ftd": {
+      "name": "blog-3.ftd",
+      "checksum": "037D641E7D6DF59149B132456391BF74DDF709BABB111DDEB52BCEC7E446E59B",
+      "size": 3390
+    },
+    "blog.ftd": {
+      "name": "blog.ftd",
+      "checksum": "3D579B63EA526E4F07B5ADF880E5ECDDA525DCF3C3E1FD5587D06E274EA82863",
+      "size": 3112
+    },
+    "card.ftd": {
+      "name": "card.ftd",
+      "checksum": "D76997D6F570E643FF444E909CA2524153850FFF59C7EA25A48894535AE4C8F8",
+      "size": 10561
+    },
+    "ds.ftd": {
+      "name": "ds.ftd",
+      "checksum": "911B5C589CEE3D1941EEB720DB077F65EF94C7EF19114C67D83396A85518CCD9",
+      "size": 866
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "checksum": "65056A1D6C6AAE6E3DC4626E29F4BD4B628B17A8E9CC1D3A5E8FE9F6743F306B",
+      "size": 15406
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "F6D7752B85498AC643E357CFB0B7F88802F6E47D037D35721E310949B4274E88",
+      "size": 3267
+    },
+    "vercel.json": {
+      "name": "vercel.json",
+      "checksum": "0A911690620506F0D47EBA9F49D46DCD57D84C7D6A3BEA93BF0875DD6B374089",
+      "size": 181
+    }
+  },
+  "zip_url": "https://codeload.github.com/itz-shantnu097/blog-website/zip/refs/heads/main",
+  "checksum": "1474633B08C6AAB263FBCEA99BA717608748E738D7FDB60166D57A998D44511A"
+}
