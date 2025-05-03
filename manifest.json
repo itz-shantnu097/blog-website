@@ -212,8 +212,8 @@
     },
     "card.ftd": {
       "name": "card.ftd",
-      "checksum": "D76997D6F570E643FF444E909CA2524153850FFF59C7EA25A48894535AE4C8F8",
-      "size": 10561
+      "checksum": "769F929774456ADA96C81C51ADF9157C48F33597EC09B628D09EA96F3424A75F",
+      "size": 10581
     },
     "ds.ftd": {
       "name": "ds.ftd",
@@ -237,5 +237,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/itz-shantnu097/blog-website/zip/refs/heads/main",
-  "checksum": "5820FC0FF08029BD85B9184363C3ECED36CECCF9C993DB0BFF07332A5D20A005"
+  "checksum": "52C70A9441F82077E353AE0CD2A022D823A28E5208103390FC13F3B1E4835D37"
 }
