@@ -227,8 +227,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "F6D7752B85498AC643E357CFB0B7F88802F6E47D037D35721E310949B4274E88",
-      "size": 3267
+      "checksum": "3FBB3EC69122B4568B419EC644574BD7011F8268091374DFAA11026856303772",
+      "size": 3526
     },
     "vercel.json": {
       "name": "vercel.json",
@@ -237,5 +237,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/itz-shantnu097/blog-website/zip/refs/heads/main",
-  "checksum": "1474633B08C6AAB263FBCEA99BA717608748E738D7FDB60166D57A998D44511A"
+  "checksum": "9438DAE4F3D44853528D723AC1E980990B5A8A29E4C08AF59D2760C09D738EF9"
 }
