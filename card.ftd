@@ -222,7 +222,7 @@ link: $card.blog-link
 	-- ftd.column:
 	if: { ftd.device == "desktop" }
 	width: fill-container
-	height.fixed.px: 800
+	height: hug-content
 	
 		-- ftd.image:
 		src: $card.cover
@@ -318,6 +318,7 @@ link: $card.blog-link
 	-- ftd.column:
 	if: { ftd.device == "mobile" }
 	width: fill-container
+	height: hug-content
 	
 		-- ftd.image:
 		src: $card.cover
